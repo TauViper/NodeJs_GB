@@ -1,6 +1,6 @@
-import colors from "colors";
+import colors from 'colors';
 
-function getPrimes(num) {
+function getPrimes(num: number) {
   const seive = [];
   const primes = [];
 
